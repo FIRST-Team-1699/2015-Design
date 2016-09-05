@@ -1,2 +1,2 @@
 # 2015-Design
-CAD files for the 2015 Robot, Deborah. 
+You can find this robot's results on [The Blue Alliance](https://thebluealliance.com/team/1699/2015).
